@@ -1,17 +1,17 @@
-age = 18
+age = 45
 # if statement runs when the condition is True
 if age >= 18: 
     print("You can vote!")
-print("Vote check complete.")
+print("Too bad you cannot vote")
 
 # if/elif/else: to handle multiple specific cases
 day = input("What day of the week is it? ")
 if day == "Monday":
     print("Ugh.I hate Mondays. ")
 elif day == "Friday":
-    print("It's almost the weekend.")
+    print("Video games rule.")
 else: 
-    print("It's a regular boring day. ")
+    print("It's a regular boring day.  ")
 
 
 
