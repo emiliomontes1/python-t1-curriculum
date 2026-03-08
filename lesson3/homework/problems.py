@@ -1,4 +1,4 @@
-er between 1 and 10 (inclusive).
+# Ask the user to enter a number between 1 and 10 (inclusive).
 # Ask the user to guess the number.
 # Print "Correct!" if the guess matches the random number, else print "Try again!".
 import random
