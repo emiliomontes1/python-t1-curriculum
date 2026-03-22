@@ -5,7 +5,10 @@ import random
 # Print the first and last.
 # Then add another brand using append() and print the updated list.
 
-
+cars = ["Mercedes", "Honda", "Subaru","Tesla" ]
+cars.pop(0)
+cars.append("Buick")
+print(cars)
 
 # Problem 2
 # Create a list of 5 numbers.
